@@ -1,54 +1,5 @@
 [
  {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": null,
-  "text": "The canon — the fixed, authoritative list of books considered scripture — was not decided in one moment by one council. It was a centuries-long, often contentious process shaped by theology, but also by politics, geography, and the outcomes of power struggles between rival Christian factions."
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "The Old Testament Canon",
-  "text": "The Hebrew Bible's three-part structure — Torah, Nevi'im, Ketuvim, together the Tanakh — was largely settled by roughly 200 CE. A common reference point is the so-called Council of Jamnia (~90 CE), where rabbis reportedly debated which books \"defiled the hands,\" a phrase referring to canonical status. Modern scholars are divided on how decisive that meeting actually was; it may have ratified an existing consensus rather than created one. The most contested books in the Hebrew canon were Song of Songs (sacred text or love poetry?), Ecclesiastes (its skepticism troubled some rabbis), and Esther "
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "The Septuagint Problem",
-  "text": "Jewish communities in Alexandria, around 250 BCE, translated the Hebrew scriptures into Greek — the Septuagint (LXX) . This translation included additional books not present in the Hebrew canon: Tobit, Judith, 1 and 2 Maccabees, Sirach, Wisdom of Solomon, and Baruch. These became known as Deuterocanonical books to Catholics and Orthodox Christians, and Apocrypha to Protestants. The split traces to Jerome (~400 CE), who preferred the Hebrew canon for his Latin Vulgate translation, and later to Luther (1520s), who removed them from Protestant Bibles entirely — partly because Catholics used 2 Mac"
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "The New Testament Canon",
-  "text": "One persistent myth deserves correction immediately: the Council of Nicaea (325 CE) did not decide the New Testament canon. Nicaea addressed the Arian controversy — the nature of Christ's divinity — not which books belonged in scripture. The canon process was slower and more diffuse than that."
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "The criteria, applied after the fact",
-  "text": "Early church leaders weighed four tests when debating which texts belonged: apostolicity (was it written by an apostle or close associate), orthodoxy (did it align with accepted teaching), catholicity (was it used widely across churches), and antiquity (was it old enough to plausibly be apostolic). The honest problem is that these criteria were frequently applied retroactively, to justify books already favored rather than to neutrally adjudicate disputed ones."
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "The timeline",
-  "text": "Date Event Significance ~140 CE Marcion's canon First defined Christian canon — 10 Pauline letters and an edited Luke, rejecting the Old Testament entirely. Declared heretical, but forced the orthodox church to define its own list in response. ~180 CE Irenaeus Argued forcefully for exactly four Gospels — no more, no less. ~300 CE Eusebius's categories Sorted texts into \"recognized,\" \"disputed,\" and \"rejected\" — Revelation sat uneasily in the disputed column. 367 CE Athanasius's Easter Letter First time in history the exact 27 books we use today appear together as a list. 397 CE Council of Cart"
- },
- {
-  "file": "canon-formation.html",
-  "title": "Who Decided What's In the Bible?",
-  "tag": "Canon",
-  "heading": "What Didn't Make It",
-  "text": "Many widely-read early Christian texts were ultimately excluded. The Gospel of Thomas was excluded largely for its Gnostic theology and lack of narrative structure. The Gospel of Peter implied Jesus didn't genuinely suffer (a view called Docetism). The Shepherd of Hermas was widely respected but considered too recent and not apostolic. The Didache was treated as a practical manual rather than scripture. The Gnostic texts discovered at Nag Hammadi in 1945 dramatically expanded what we know about this excluded material — showing these weren't fringe documents but texts genuinely used by real Chr"
- },
- {
   "file": "historical-jesus.html",
   "title": "The Historical Jesus",
   "tag": "Jesus",
@@ -96,6 +47,55 @@
   "tag": "Jesus",
   "heading": "The Resurrection — The Hinge Point",
   "text": "Everything in Christian theology turns on this single claim, and it is the clearest example of where historical method reaches its limit. History can establish that the earliest followers sincerely believed they encountered the risen Jesus, and that belief transformed them. It cannot, by its own method, confirm or deny a miracle — that question sits outside what evidence can settle either way. Where history ends and faith begins This is not a dodge. It's the most intellectually honest line that can be drawn. Naming the boundary clearly is more durable than claiming the evidence proves either s"
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": null,
+  "text": "The canon — the fixed, authoritative list of books considered scripture — was not decided in one moment by one council. It was a centuries-long, often contentious process shaped by theology, but also by politics, geography, and the outcomes of power struggles between rival Christian factions."
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "The Old Testament Canon",
+  "text": "The Hebrew Bible's three-part structure — Torah, Nevi'im, Ketuvim, together the Tanakh — was largely settled by roughly 200 CE. A common reference point is the so-called Council of Jamnia (~90 CE), where rabbis reportedly debated which books \"defiled the hands,\" a phrase referring to canonical status. Modern scholars are divided on how decisive that meeting actually was; it may have ratified an existing consensus rather than created one. The most contested books in the Hebrew canon were Song of Songs (sacred text or love poetry?), Ecclesiastes (its skepticism troubled some rabbis), and Esther "
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "The Septuagint Problem",
+  "text": "Jewish communities in Alexandria, around 250 BCE, translated the Hebrew scriptures into Greek — the Septuagint (LXX) . This translation included additional books not present in the Hebrew canon: Tobit, Judith, 1 and 2 Maccabees, Sirach, Wisdom of Solomon, and Baruch. These became known as Deuterocanonical books to Catholics and Orthodox Christians, and Apocrypha to Protestants. The split traces to Jerome (~400 CE), who preferred the Hebrew canon for his Latin Vulgate translation, and later to Luther (1520s), who removed them from Protestant Bibles entirely — partly because Catholics used 2 Mac"
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "The New Testament Canon",
+  "text": "One persistent myth deserves correction immediately: the Council of Nicaea (325 CE) did not decide the New Testament canon. Nicaea addressed the Arian controversy — the nature of Christ's divinity — not which books belonged in scripture. The canon process was slower and more diffuse than that."
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "The criteria, applied after the fact",
+  "text": "Early church leaders weighed four tests when debating which texts belonged: apostolicity (was it written by an apostle or close associate), orthodoxy (did it align with accepted teaching), catholicity (was it used widely across churches), and antiquity (was it old enough to plausibly be apostolic). The honest problem is that these criteria were frequently applied retroactively, to justify books already favored rather than to neutrally adjudicate disputed ones."
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "The timeline",
+  "text": "Date Event Significance ~140 CE Marcion's canon First defined Christian canon — 10 Pauline letters and an edited Luke, rejecting the Old Testament entirely. Declared heretical, but forced the orthodox church to define its own list in response. ~180 CE Irenaeus Argued forcefully for exactly four Gospels — no more, no less. ~300 CE Eusebius's categories Sorted texts into \"recognized,\" \"disputed,\" and \"rejected\" — Revelation sat uneasily in the disputed column. 367 CE Athanasius's Easter Letter First time in history the exact 27 books we use today appear together as a list. 397 CE Council of Cart"
+ },
+ {
+  "file": "canon-formation.html",
+  "title": "Who Decided What's In the Bible?",
+  "tag": "Canon",
+  "heading": "What Didn't Make It",
+  "text": "Many widely-read early Christian texts were ultimately excluded. The Gospel of Thomas was excluded largely for its Gnostic theology and lack of narrative structure. The Gospel of Peter implied Jesus didn't genuinely suffer (a view called Docetism). The Shepherd of Hermas was widely respected but considered too recent and not apostolic. The Didache was treated as a practical manual rather than scripture. The Gnostic texts discovered at Nag Hammadi in 1945 dramatically expanded what we know about this excluded material — showing these weren't fringe documents but texts genuinely used by real Chr"
  },
  {
   "file": "manuscript-evidence.html",
@@ -378,6 +378,104 @@
   "text": "Core Christian doctrine Jesus (earliest sources) Paul Verdict Salvation by faith in Christ's death Not taught Central Pauline Atonement — Jesus died for sins Not explicit Central Pauline Justification by faith, not works Not taught Central Pauline The church as institution Not taught Founded Pauline Jesus as pre-existent and divine Implicit at most Explicit Pauline Kingdom of God as central Central Secondary Jesus Care for the poor as central Central Secondary Jesus Enemy love Central Present Both Interior transformation Central Present Both Jewish Law fulfilled vs. superseded Deepened Superse"
  },
  {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": null,
+  "text": "Before Christianity received imperial favor in 313 CE, it was shaped by persecution, small scale, and economic necessity rather than by buildings or institutional structure. The sources that survive from this period describe a way of life that looks almost nothing like a modern Sunday service — and understanding it clarifies exactly what changed when Constantine's favor arrived."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "The Period at a Glance",
+  "text": "Period Date range Character Apostolic era ~30–100 CE House churches, oral tradition, high cost of membership Post-apostolic era ~100–200 CE Growing institution, first creeds, periodic persecution Early Catholic era ~200–313 CE Bishops consolidate authority, canon actively forming Constantine 313 CE Imperial favor begins — the inflection point"
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "Acts 2 — The Idealized Picture",
+  "text": "Acts 2:42–47, written around 85 CE, gives the earliest description of Christian communal life: devotion to the apostles' teaching, fellowship ( koinonia — deep mutual participation, not casual attendance), the breaking of bread, shared property, and daily rather than weekly contact. Scholars debate how historically precise this picture is — it may idealize the community somewhat — but even as an aspiration, it tells us what the earliest church considered the standard, and that standard looks nothing like a once-a-week gathering."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "Paul's Letters — The Messy Reality",
+  "text": "Paul's letters document real, unglamorous problems inside these communities: division, sexual misconduct, and lawsuits between members in Corinth; theological confusion and reversion to Jewish legal requirements in Galatia; personal conflict between leaders in Philippi; and panic in Thessalonica over members who had died before Jesus' expected return. Early Christianity was not a golden age of frictionless community — it was messy, contested, and entirely human, exactly like any real community of people genuinely trying to live differently from the culture around them."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "The Didache — The Earliest Church Manual",
+  "text": "Discovered in 1873, the Didache (~80–120 CE) is one of the most important early Christian documents outside the New Testament — a practical handbook for community life. It describes a period of instruction before baptism, meaning new members made a real commitment before being received rather than joining on the spot. It instructs members directly: \"do not turn away the needy... share everything with your brother.\" It establishes accountability mechanisms for traveling teachers — a prophet who stayed more than two days, or one who asked for money, was to be treated as false. And it describes t"
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "Justin Martyr — The Earliest Detailed Service Description",
+  "text": "Writing around 150 CE, Justin Martyr gives the first clear account of a Sunday gathering: extended reading from the apostles' writings or the prophets, an exhortation from \"the president\" to imitate what was read, communal prayer, a shared meal of bread, wine, and water, and a voluntary collection deposited with the president specifically to support orphans, widows, and those in want. What's present and what's absent This is recognizable as a church service — extended teaching, prayer, a shared meal. What is conspicuously absent is any reference to music production, refreshments offered to att"
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "1. It was costly",
+  "text": "Persecution was real, periodic, and sometimes severe before 313 CE. This functioned as a natural filter: people did not join for social advantage, since there typically wasn't any. The cost of entry ensured a baseline of genuine conviction among those who joined."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "2. It was small and intimate",
+  "text": "House churches typically held fifteen to forty people — roughly the scale of an extended family. This size made genuine mutual knowledge, real accountability, actual economic awareness of each other's needs, and participatory worship structurally possible in a way that large gatherings cannot replicate."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "3. It was economically radical",
+  "text": "The economic sharing described in Acts and the Didache was a structural feature of these communities, not an occasional act of charity. In a Roman world with extreme wealth inequality and almost no social safety net, Christian communities created a genuine alternative economic network — feeding widows, housing orphans, sheltering travelers. This was visible enough that hostile observers commented on it directly. The emperor Julian, attempting to revive paganism in the fourth century, complained that \"the godless Galileans feed not only their own poor but ours also.\" The most effective form of "
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "4. It was intellectually serious",
+  "text": "Extended instruction preceded baptism in many communities — in some cases lasting two to three years. Candidates were expected to learn the scriptures, demonstrate changed behavior, and be vouched for by existing members before being received."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "5. It was participatory, not performative",
+  "text": "Paul describes early worship in 1 Corinthians 14: \"each of you has a hymn, or a word of instruction, a revelation, a tongue or an interpretation.\" Everyone present contributed something; there was no fixed division between a performing few and a watching many."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "6. It was shaped by Jesus' own teaching before later theology dominated",
+  "text": "The Didache opens with what it calls \"the Two Ways,\" a summary of Christian ethics drawn directly from the Sermon on the Mount — appearing before any developed creed, before atonement theology, before institutional structure. In the earliest period, ethics came first; theology about the mechanics of salvation developed later."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "7. It was eschatologically urgent",
+  "text": "Early Christians broadly expected Jesus to return within their own lifetimes, and this expectation shaped behavior directly: possessions were shared because the present arrangement was assumed to be temporary, persecution was endured because it was assumed to be brief, and enemies were loved because the kingdom was understood to already be breaking in. When the expected return did not arrive on that timeline, the resulting adjustment was part of what drove the community toward longer-term institutional structures."
+ },
+ {
+  "file": "pre-constantine-discipleship.html",
+  "title": "Discipleship Before Constantine",
+  "tag": "Community",
+  "heading": "Before and After Constantine",
+  "text": "Feature Pre-Constantine Post-Constantine Cost of membership High — real social and legal risk Effectively zero — socially advantageous Size Small house churches Large basilicas Economic sharing A structural feature of community life Optional, individual charity Instruction before baptism Two to three years in many communities Eventually minimal — infant baptism with no prior instruction Participation Everyone contributes Clergy perform; laity largely observe Purpose of the offering Care for the vulnerable Buildings and clergy salaries Relationship to political power Countercultural, periodical"
+ },
+ {
   "file": "prayer.html",
   "title": "Prayer in the Biblical Record",
   "tag": "Prayer",
@@ -467,6 +565,314 @@
   "tag": "Prayer",
   "heading": "Public Prayer — What Jesus Said Directly",
   "text": "Matthew 6:5–7 is the most direct New Testament teaching on the subject, and it cuts against common practice. Jesus criticizes those who \"love to pray standing in the synagogues and on the street corners to be seen by others,\" instructs his listeners to pray privately instead, and explicitly condemns battalogeo — empty, repetitive babbling — immediately before teaching the Lord's Prayer as the alternative. A real tension worth naming plainly The formulaic opening and closing prayer common in modern institutional settings — performed by a designated leader, bracketing an otherwise unchanged meet"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": null,
+  "text": "Revelation is the most famous biblical text about the future, but it is far from the only one — and understanding what apocalyptic literature actually does, as a genre, changes how all of it should be read. This report covers who likely wrote Revelation, what apocalyptic literature is for, and the wider landscape of biblical texts that speak to the future."
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "A Necessary Foundation",
+  "text": "Modern readers tend to assume prophecy means predicting the distant future, that prophets were primarily forecasters, and that fulfillment means a later event matching an earlier prediction. The ancient reality was different on all three counts. The Hebrew word for prophet, navi , means \"one who speaks forth\" — not \"one who predicts.\" Prophets were primarily social critics and covenant enforcers speaking to their own moment, with implications that extended forward. Much of what gets labeled \"biblical prophecy about the future\" was, in its original context, primarily about the immediate politic"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "Who Wrote Revelation?",
+  "text": "The text identifies its author only as \"John,\" with no further title or credential (Revelation 1:1, 1:4, 1:9). Four candidates have been proposed across history. Candidate Case for Case against John the Apostle Earliest church tradition (Justin Martyr, Irenaeus) names him; he was exiled, matching the Patmos detail The Greek of Revelation differs dramatically from the Gospel of John; he was likely already dead before Revelation's probable ~95 CE composition John the Elder A distinct figure mentioned by Papias (~130 CE) via Eusebius; explains the stylistic gap between two different \"Johns\" Very "
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "The Contested Canon History",
+  "text": "Figure / body Position on Revelation Justin Martyr (~150 CE) Accepted it, attributing it to John the Apostle Irenaeus (~180 CE) Accepted it strongly Dionysius of Alexandria (~250 CE) Doubted apostolic authorship while still respecting the text Eusebius (~313 CE) Unusually listed it in both his \"accepted\" and \"disputed\" categories simultaneously Syrian church Excluded it from their canon entirely Council of Laodicea (~363 CE) Excluded it from the canonical list Athanasius (~367 CE) Included it in his list of 27 books Council of Carthage (397 CE) Ratified its inclusion The Eastern Orthodox churc"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "What Apocalyptic Literature Actually Does",
+  "text": "Apocalyptic is a specific genre, not simply a synonym for \"prediction.\" Its standard features include visions received through a human mediator, coded symbolic imagery (beasts, numbers, cosmic warfare), a dualistic framework of this age versus the age to come, and — critically — composition during persecution, using coded language to discuss a real, present political situation without inviting violent reprisal. Pseudonymity, writing in the name of a revered figure, was a conventional and accepted feature of the genre, found across 1 Enoch, 4 Ezra, and the Apocalypse of Peter alongside Daniel a"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "Daniel — The Clearest Case of Prophecy Written After the Fact",
+  "text": "Daniel is traditionally dated to the sixth century BCE, set during the Babylonian exile. Most critical scholars date its actual composition to around 165 BCE — roughly four hundred years later, during the Maccabean crisis under the Seleucid ruler Antiochus IV Epiphanes. The reasoning is direct: Daniel's \"predictions\" track real history with precision up to about 165 BCE, then become vague — exactly the point where the book was most likely actually written. This is the clearest documented case in the biblical canon of vaticinium ex eventu , prophecy composed after the events it claims to predic"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "Ezekiel's Gog and Magog (chapters 38–39)",
+  "text": "Most scholars identify the original referent as a specific ancient threat. The popular modern identification with Russia rests on reading the Hebrew word rosh (\"head\" or \"chief\") as a proper national name — a connection almost no Hebrew scholar accepts as linguistically sound."
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "Joel 2:28–32",
+  "text": "Peter quotes this passage in Acts 2 to interpret Pentecost. Joel's own \"last days\" language (Hebrew acharit hayamim ) more often means \"in the coming time\" generally, not necessarily the end of history — Peter is applying an older hopeful text to his own present moment using the standard ancient method of pesher , not citing a prediction Joel understood himself to be making about a specific future Tuesday in Jerusalem."
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "The Olivet Discourse — Matthew 24, Mark 13, Luke 21",
+  "text": "Jesus describes the Temple's destruction, wars, false prophets, cosmic signs, and the coming of the Son of Man, then states plainly: \"this generation will certainly not pass away until all these things have happened\" (Matthew 24:34). The Temple was in fact destroyed in 70 CE, closely matching the description. Three honest positions exist on the resulting tension: that the delay in the remaining cosmic events was intentional and they are still to come; that Jesus shared the apocalyptic timeline expectations common to his era and was, on a plain reading, mistaken about the timing; or that \"the c"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "1 and 2 Thessalonians and the Rapture",
+  "text": "1 Thessalonians 4:16–17 describes believers being \"caught up\" to meet Christ — language written to comfort a community grieving members who had died before Jesus' expected return. The specific theological system built on this passage — a secret return of Christ removing believers before a period of tribulation — was developed by John Nelson Darby in the 1830s, then popularized through the Scofield Reference Bible (1909) and later twentieth-century popular fiction. This is a documented, less-than-two-hundred-year-old doctrine, absent from the early church and from every Christian tradition befo"
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "2 Peter 3",
+  "text": "Describes the heavens disappearing and the elements destroyed by fire. 2 Peter is widely considered the latest New Testament document, likely written around 120 CE and pseudonymous. Its specific imagery of cosmic destruction by fire draws heavily on the Stoic philosophical concept of ekpyrosis — a periodic destruction and renewal of the cosmos — suggesting this particular doctrine may owe more to Greek philosophy circulating at the time than to earlier Hebrew prophetic tradition."
+ },
+ {
+  "file": "revelation-apocalyptic.html",
+  "title": "Revelation & the Apocalyptic Tradition",
+  "tag": "Apocalyptic",
+  "heading": "The Pattern Across All of These Texts",
+  "text": "Pattern What it means Written in crisis Every apocalyptic text emerges from a specific community under real pressure, not from calm theological speculation Addressed to the present The \"future\" described is almost always imminent — within the author's own generation Coded for safety Symbolic language protected the community from violent reprisal under occupying powers The enemy is the current empire Babylon, Persia, Greece, Rome — the beast is consistently the present oppressor, not a distant future one The hope is vindication God will ultimately set things right — not a specific dated timelin"
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": null,
+  "text": "Modern preachers commonly teach that the Bible commands believers to give ten percent of their income to their local church. The Hebrew and Greek texts describe something considerably more layered, more conditional, and in the New Testament's case, explicitly different from a fixed percentage at all."
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "What \"Tithe\" Actually Means",
+  "text": "The English word descends from Old English teogoþa , literally \"a tenth\" — a direct translation of the Hebrew ma'aser , which likewise just means \"a tenth part.\" The term carries no independent theological content; it names a fraction. Modern teaching invokes the word specifically because it borrows the authority of the Old Testament system, even when the practice being requested does not match what that system actually required."
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "The Old Testament — Multiple, Different Tithes",
+  "text": "The tithe in ancient Israel was a tax on agricultural produce and livestock — grain, wine, oil, herd animals — paid by an agrarian society with no cash wage economy in the modern sense. It was never a percentage of income, because income in that sense did not exist for most of the population. Tithe Source What it funded Frequency The Levitical tithe Leviticus 27:30–33, Numbers 18:21–24 The Levites, who held no land inheritance of their own Annual The festival tithe Deuteronomy 14:22–27 The tither's own family, consumed at a festival in Jerusalem Annual The poor tithe Deuteronomy 14:28–29, 26:1"
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Abraham and Jacob",
+  "text": "Genesis 14:20 has Abraham give a tenth of war spoils to the priest-king Melchizedek — a one-time act after a military victory, not a recurring obligation. Genesis 28:22 has Jacob vow a tenth conditionally, if God provides for him on his journey — a personal vow, not a commanded practice. Both predate the Law given at Sinai. Neither is framed in its own text as binding on anyone beyond the individual making the vow."
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Jesus mentions tithing exactly twice",
+  "text": "Matthew 23:23 and Luke 11:42 have Jesus criticize the Pharisees for meticulously tithing herbs while neglecting \"justice, mercy, and faithfulness.\" The passage is a critique of empty legal precision substituting for substantive ethics, delivered under the Mosaic Law still in force before his death and resurrection — not a teaching moment establishing a financial system for his own followers. Luke 18:9–14, the parable of the Pharisee and the tax collector, has the tithing Pharisee serve as the explicit example of misplaced righteousness, not a model to emulate. No positive instruction to tithe "
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Paul replaces it with something else entirely",
+  "text": "Paul, writing the earliest Christian documents available, addresses giving extensively and never once uses the word \"tithe.\" Passage What Paul actually says 2 Corinthians 9:7 \"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\" 1 Corinthians 16:1–2 Instructs setting aside a sum \"in keeping with his income\" — proportional, but with no percentage named 2 Corinthians 8:1–5 Praises the Macedonian churches for giving \"even beyond their ability\" — voluntary generosity exceeding any formula The clearest finding in "
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Hebrews 7 — a different argument entirely",
+  "text": "Hebrews 7:1–10 discusses Abraham's tithe to Melchizedek specifically to argue that Melchizedek's priesthood, and by extension Christ's, is superior to the Levitical priesthood. It is a Christological argument about priestly authority, not a financial instruction to its audience — though it is frequently lifted from this context by modern teaching and presented as if it re-establishes the practice."
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Where Teaching and Text Diverge — Stated Plainly",
+  "text": "What is commonly taught What the original texts actually say \"The Bible commands every Christian to give 10% of their income.\" No New Testament text states a percentage. Paul explicitly replaces any fixed figure with voluntary, proportional giving. \"Tithing is a New Testament Christian practice.\" Jesus references tithing only to criticize Pharisaic legalism. Paul never uses the word. The early church practiced voluntary communal sharing, not tithing. \"The tithe goes to your local church.\" The Levitical tithe funded a landless priestly class and direct poor relief — categories with no equivalen"
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Where the Modern Practice Actually Came From",
+  "text": "Period What's happening with tithing ~2000–1800 BCE (narrative setting) Abraham, Jacob — individual, one-time or conditional acts, not commanded practice ~1400–400 BCE Mosaic Law establishes multiple distinct agricultural tithes funding Levites and the poor ~30 CE Jesus references tithing only critically, as an example of Pharisaic legalism ~50–60 CE Paul explicitly replaces any fixed percentage with voluntary, proportional, \"cheerful\" giving ~100–300 CE Early church practices voluntary communal sharing; no tithing system in place 567–800 CE Regional councils (Tours, Mâcon), then Charlemagne, "
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "The Necessary Balance",
+  "text": "The case that modern teaching overreaches The case for the modern practice, fairly stated The Old Testament tithe was agricultural, multi-layered, and likely totaled well over 10% across its full cycle Old Testament tithing does establish a real principle of proportional, structured giving tied to material blessing, even if the specific figure has shifted It funded a landless priestly class and direct poor relief, not a modern church budget Paul's \"in keeping with income\" instruction is itself proportional — a teacher could argue 10% is a reasonable traditional benchmark, not a binding law Jes"
+ },
+ {
+  "file": "tithing.html",
+  "title": "Tithing — What the Text Actually Says",
+  "tag": "Tithing",
+  "heading": "Is Giving to a Church Part of the Christian Faith?",
+  "text": "Generosity itself is unambiguously part of the New Testament's ethical core. Paul is explicit and repeated: give, give cheerfully, give proportionally to what you have. Jesus' own teaching is saturated with instruction to be generous, particularly toward the poor. This much is not in question. Whether that generosity is specifically owed to a local congregation, as a fixed percentage, of personal income, is a different claim — and it is not what Paul instructs or what Jesus models. Paul's actual collections funded poverty relief for a specific suffering community, not standing institutional op"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": null,
+  "text": "The familiar shape of a Sunday morning — full parking lot, free coffee, produced music, a sermon, lunch afterward — feels timeless to people inside it. It is not ancient. It is traceable, layer by layer, to specific historical decisions, and several of the most serious critics of this model have been devout Christians, not outside skeptics."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Naming the Pattern",
+  "text": "Element observed What it functions as Full parking lot Attendance treated as the primary metric of success Free coffee Lowering the barrier to entry — comfort prioritized over conviction Produced music Emotional priming ahead of the spoken message The sermon A polished product delivered to a receiving audience Lunch afterward A social reward that reinforces the habit of returning Taken together, this is not an accident. It follows the same underlying logic as a consumer business: attract, retain, convert, grow. There is a specific name for it in religious scholarship — consumerist Christianity"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "The Contrast With the Earliest Communities",
+  "text": "Feature Early Christianity (~50–150 CE) Modern consumerist church Meeting place Homes, informal spaces, sometimes catacombs Purpose-built campuses Size Small, tight-knit — typically 15–40 people Hundreds to thousands Entry cost Real social and legal risk Effectively zero — a cup of coffee Music Simple psalms and hymns Professional production Leadership Shared, communal, often bi-vocational Celebrity pastor model Focus The kingdom of God, care for the poor Personal fulfillment, individual salvation Weekly rhythm Daily community contact One hour per week Economic model Members shared resources d"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Constantine — 313 CE",
+  "text": "When Constantine legalized and then increasingly favored Christianity, the faith moved from a countercultural, periodically persecuted movement to a religion with imperial backing. Churches became buildings; leadership became institutionalized; the social cost of belonging dropped to roughly zero. Before Constantine, joining the faith risked real loss. After Constantine, joining it could be socially advantageous. That single structural shift altered who joined, and why, more thoroughly than any later theological development."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "The Reformation — 1500s",
+  "text": "Luther's break from Rome fragmented Christianity into competing denominations. Over subsequent centuries this produced something resembling a marketplace of churches actively competing for members — and competition, by its nature, drives toward attraction, comfort, and entertainment as differentiators."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "The Church Growth Movement — 1970s to present",
+  "text": "In the late twentieth century a deliberate methodology emerged, associated with figures including Bill Hybels (Willow Creek) and Rick Warren (Saddleback), explicitly applying corporate marketing principles to church growth. The stated goal was reaching more people with the gospel message. The method was making the church experience as accessible, comfortable, and appealing as possible — full parking lot, lighting, production value, the sermon delivered as a polished, repeatable product. This is a documented, fifty-year-old American methodology, not an ancient or inevitable feature of Christian"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Jesus and the Temple",
+  "text": "The one moment across all four Gospels where Jesus becomes physically aggressive is his confrontation with merchants in the Temple, overturning tables and scattering money. His stated objection — \"you have made it a den of thieves\" — was specifically that a sacred space had become a site of commercial transaction."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Amos",
+  "text": "The prophet Amos delivers one of the most direct critiques of religious performance anywhere in scripture, condemning festivals, assemblies, and music explicitly because they had become a substitute for justice rather than an expression of it. The point is not that worship itself is wrong, but that performed religion without transformed behavior is, in the prophet's own words, something God actively rejects."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "James",
+  "text": "James 1:27 defines \"pure religion\" with no reference at all to attendance, music, or preaching — only as looking after orphans and widows in their distress and remaining unstained by the surrounding culture."
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Christian Critics — Not Outside Skeptics",
+  "text": "Critic Background Critique Dietrich Bonhoeffer German theologian, executed by the Nazi regime Coined \"cheap grace\" — salvation offered without discipleship, faith with no real cost attached C.S. Lewis One of the most influential Christian writers of the twentieth century Consistently skeptical of religious performance and institutional religiosity N.T. Wright Leading contemporary New Testament scholar, Anglican bishop Argues modern evangelicalism has substantially abandoned Jesus' own teaching about the kingdom David Platt Southern Baptist pastor Wrote a direct critique of comfortable American"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "Naming What Each Specific Feature Signals",
+  "text": "Observed feature What it indicates The weekly routine itself Genuine transformation is, by nature, disruptive — a comfortable habit that changes nothing is a warning sign, not a neutral feature Crowd size as success metric The New Testament explicitly warns against equating numbers with spiritual health Free coffee and amenities Signals the underlying content is not considered compelling enough to attract people on its own Entertainment-grade music Can produce a feeling of transcendence disconnected from any actual transformation — close to Bonhoeffer's \"cheap grace\" The sermon as one-way prod"
+ },
+ {
+  "file": "consumerist-church.html",
+  "title": "The Consumerist Church — A Historical Critique",
+  "tag": "Modern church",
+  "heading": "The Deeper Tension",
+  "text": "The historical Jesus, as the evidence across this investigation reconstructs him, directly challenged the religious establishment of his own day, told a wealthy young man to sell everything he owned, taught that the road to life is narrow and few find it, and was ultimately executed by the empire as a threat to the existing social order. The consumerist church model, by contrast, generally functions as the contemporary religious establishment, asks for a comfortable tithe and occasional volunteering, fills a parking lot, and is broadly comfortable with the existing social order rather than cha"
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": null,
+  "text": "None of the four Gospels names its own author inside the text. The names Matthew, Mark, Luke, and John were attached by tradition roughly a century after the texts were written. This report examines what the manuscripts, internal evidence, and external tradition actually support about who wrote them."
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "The Basic Problem",
+  "text": "The earliest surviving Gospel manuscripts are anonymous — the familiar titles (\"The Gospel According to Matthew,\" and so on) were added later by scribes and copyists, reflecting a tradition that had developed by the latter half of the second century. The titles are not part of the original composed text. This does not automatically mean the traditional attributions are wrong, but it does mean they rest on later church tradition rather than on the documents' own internal claims, which is a different and weaker form of evidence than an author naming themselves."
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "Dating and Order of Composition",
+  "text": "Gospel Scholarly dating Key relationship Mark ~65–70 CE Generally considered the earliest; a primary source for Matthew and Luke Matthew ~80–90 CE Reproduces roughly 90% of Mark's content; likely composed within or for a Jewish-Christian community Luke ~80–90 CE Shares an author with Acts; written with a Gentile audience in view John ~90–100 CE Theologically distinct from the other three; shows evidence of multiple editorial stages"
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "The Synoptic Problem",
+  "text": "Matthew, Mark, and Luke share so much material, often word-for-word, that their close literary relationship is undeniable — this is called the Synoptic Problem. The leading scholarly solution combines Markan priority (Mark was written first and used as a source by the other two) with a hypothetical second source called Q (from German Quelle , \"source\") — a collection of Jesus' sayings that Matthew and Luke appear to draw on independently, since they share material not found in Mark at all. Q itself does not survive as a standalone document; its existence is inferred from the pattern of shared "
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "Mark — The Earliest Gospel",
+  "text": "Tradition, recorded by the early bishop Papias around 130 CE, attributes this Gospel to John Mark, a companion of Peter who wrote down Peter's preaching after Peter's death. This is plausible and not strongly contested, but it also cannot be independently verified — the tradition rests on a single early source rather than multiple converging lines of evidence. Mark's Gospel has the lowest \"Christology\" of the four: no virgin birth narrative, no explicit divinity claim, and an abrupt original ending (16:8) with no resurrection appearance — the longer ending found in some Bibles (16:9–20) is a w"
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "Matthew — Tradition vs. Internal Evidence",
+  "text": "Church tradition attributes this Gospel to Matthew, the tax collector called by Jesus and named among the Twelve. The internal evidence creates real tension with this attribution: the author relies heavily on Mark, reproducing it almost wholesale — an odd choice for an eyewitness apostle who could presumably draw on his own firsthand memory rather than depending so extensively on someone else's secondhand account. The text is written in polished Greek, and its detailed engagement with Jewish law and scripture suggests a Jewish-Christian author and audience, but not necessarily the apostle hims"
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "Luke — The Strongest Internal Case",
+  "text": "Luke's Gospel and the Book of Acts share a single author, evident from matching style, vocabulary, and an explicit cross-reference at the start of Acts. The author identifies himself in the opening verses as someone who did not personally witness the events but carefully investigated accounts from those who did (Luke 1:1–4) — making this Gospel the only one to make an explicit, direct claim about its own method, though notably not a claim of personal eyewitness status. Tradition, again via Papias and later figures, attributes it to Luke, a physician and companion of Paul mentioned in several o"
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "John — The Most Theologically Distinct",
+  "text": "The Gospel of John differs sharply from the other three in both style and content: long theological discourses rather than short parables, an explicit and repeated claim to Jesus' pre-existent divinity (\"the Word was God\"), and the absence of material common to the Synoptics. Internal evidence points to composition or final editing by a community over time rather than a single sitting by a single author — the text shows signs of multiple layers, including an appended final chapter (21) that reads as a later addition addressing the death of \"the disciple whom Jesus loved.\" Tradition attributes "
+ },
+ {
+  "file": "gospel-authorship.html",
+  "title": "Who Actually Wrote the Gospels?",
+  "tag": "Authorship",
+  "heading": "What the Evidence Actually Supports",
+  "text": "Question What the evidence supports Did the Gospels originally carry their traditional names? No — the texts themselves are anonymous; titles were added later Were the traditional attributions invented from nothing? Unlikely — they appear consistently across independent early sources within a few generations of composition Can the traditional attributions be independently verified? No — they rest on church tradition, not on internal authorial claims or external corroboration of the same strength as, for example, Paul's authorship of his core letters Were the authors eyewitnesses to Jesus' mini"
  },
  {
   "file": "glossary.html",
@@ -614,411 +1020,5 @@
   "tag": "Terminology",
   "heading": "Vaticinium ex eventu",
   "text": "Latin for \"prophecy after the event\" — a text written after the events it describes, then framed within the narrative as if predicting them in advance. Daniel is the clearest documented case in the biblical canon: its detailed \"predictions\" are historically accurate up through roughly 165 BCE, then become vague, marking the point where the book was most likely actually composed. Why this page exists Several of these terms carry real weight in arguments throughout the other reports — pseudepigraphy in the Paul and doctrinal development reports, pesher in the apocalyptic literature report, heres"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": null,
-  "text": "The familiar shape of a Sunday morning — full parking lot, free coffee, produced music, a sermon, lunch afterward — feels timeless to people inside it. It is not ancient. It is traceable, layer by layer, to specific historical decisions, and several of the most serious critics of this model have been devout Christians, not outside skeptics."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Naming the Pattern",
-  "text": "Element observed What it functions as Full parking lot Attendance treated as the primary metric of success Free coffee Lowering the barrier to entry — comfort prioritized over conviction Produced music Emotional priming ahead of the spoken message The sermon A polished product delivered to a receiving audience Lunch afterward A social reward that reinforces the habit of returning Taken together, this is not an accident. It follows the same underlying logic as a consumer business: attract, retain, convert, grow. There is a specific name for it in religious scholarship — consumerist Christianity"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "The Contrast With the Earliest Communities",
-  "text": "Feature Early Christianity (~50–150 CE) Modern consumerist church Meeting place Homes, informal spaces, sometimes catacombs Purpose-built campuses Size Small, tight-knit — typically 15–40 people Hundreds to thousands Entry cost Real social and legal risk Effectively zero — a cup of coffee Music Simple psalms and hymns Professional production Leadership Shared, communal, often bi-vocational Celebrity pastor model Focus The kingdom of God, care for the poor Personal fulfillment, individual salvation Weekly rhythm Daily community contact One hour per week Economic model Members shared resources d"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Constantine — 313 CE",
-  "text": "When Constantine legalized and then increasingly favored Christianity, the faith moved from a countercultural, periodically persecuted movement to a religion with imperial backing. Churches became buildings; leadership became institutionalized; the social cost of belonging dropped to roughly zero. Before Constantine, joining the faith risked real loss. After Constantine, joining it could be socially advantageous. That single structural shift altered who joined, and why, more thoroughly than any later theological development."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "The Reformation — 1500s",
-  "text": "Luther's break from Rome fragmented Christianity into competing denominations. Over subsequent centuries this produced something resembling a marketplace of churches actively competing for members — and competition, by its nature, drives toward attraction, comfort, and entertainment as differentiators."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "The Church Growth Movement — 1970s to present",
-  "text": "In the late twentieth century a deliberate methodology emerged, associated with figures including Bill Hybels (Willow Creek) and Rick Warren (Saddleback), explicitly applying corporate marketing principles to church growth. The stated goal was reaching more people with the gospel message. The method was making the church experience as accessible, comfortable, and appealing as possible — full parking lot, lighting, production value, the sermon delivered as a polished, repeatable product. This is a documented, fifty-year-old American methodology, not an ancient or inevitable feature of Christian"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Jesus and the Temple",
-  "text": "The one moment across all four Gospels where Jesus becomes physically aggressive is his confrontation with merchants in the Temple, overturning tables and scattering money. His stated objection — \"you have made it a den of thieves\" — was specifically that a sacred space had become a site of commercial transaction."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Amos",
-  "text": "The prophet Amos delivers one of the most direct critiques of religious performance anywhere in scripture, condemning festivals, assemblies, and music explicitly because they had become a substitute for justice rather than an expression of it. The point is not that worship itself is wrong, but that performed religion without transformed behavior is, in the prophet's own words, something God actively rejects."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "James",
-  "text": "James 1:27 defines \"pure religion\" with no reference at all to attendance, music, or preaching — only as looking after orphans and widows in their distress and remaining unstained by the surrounding culture."
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Christian Critics — Not Outside Skeptics",
-  "text": "Critic Background Critique Dietrich Bonhoeffer German theologian, executed by the Nazi regime Coined \"cheap grace\" — salvation offered without discipleship, faith with no real cost attached C.S. Lewis One of the most influential Christian writers of the twentieth century Consistently skeptical of religious performance and institutional religiosity N.T. Wright Leading contemporary New Testament scholar, Anglican bishop Argues modern evangelicalism has substantially abandoned Jesus' own teaching about the kingdom David Platt Southern Baptist pastor Wrote a direct critique of comfortable American"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "Naming What Each Specific Feature Signals",
-  "text": "Observed feature What it indicates The weekly routine itself Genuine transformation is, by nature, disruptive — a comfortable habit that changes nothing is a warning sign, not a neutral feature Crowd size as success metric The New Testament explicitly warns against equating numbers with spiritual health Free coffee and amenities Signals the underlying content is not considered compelling enough to attract people on its own Entertainment-grade music Can produce a feeling of transcendence disconnected from any actual transformation — close to Bonhoeffer's \"cheap grace\" The sermon as one-way prod"
- },
- {
-  "file": "consumerist-church.html",
-  "title": "The Consumerist Church — A Historical Critique",
-  "tag": "Modern church",
-  "heading": "The Deeper Tension",
-  "text": "The historical Jesus, as the evidence across this investigation reconstructs him, directly challenged the religious establishment of his own day, told a wealthy young man to sell everything he owned, taught that the road to life is narrow and few find it, and was ultimately executed by the empire as a threat to the existing social order. The consumerist church model, by contrast, generally functions as the contemporary religious establishment, asks for a comfortable tithe and occasional volunteering, fills a parking lot, and is broadly comfortable with the existing social order rather than cha"
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": null,
-  "text": "Before Christianity received imperial favor in 313 CE, it was shaped by persecution, small scale, and economic necessity rather than by buildings or institutional structure. The sources that survive from this period describe a way of life that looks almost nothing like a modern Sunday service — and understanding it clarifies exactly what changed when Constantine's favor arrived."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "The Period at a Glance",
-  "text": "Period Date range Character Apostolic era ~30–100 CE House churches, oral tradition, high cost of membership Post-apostolic era ~100–200 CE Growing institution, first creeds, periodic persecution Early Catholic era ~200–313 CE Bishops consolidate authority, canon actively forming Constantine 313 CE Imperial favor begins — the inflection point"
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "Acts 2 — The Idealized Picture",
-  "text": "Acts 2:42–47, written around 85 CE, gives the earliest description of Christian communal life: devotion to the apostles' teaching, fellowship ( koinonia — deep mutual participation, not casual attendance), the breaking of bread, shared property, and daily rather than weekly contact. Scholars debate how historically precise this picture is — it may idealize the community somewhat — but even as an aspiration, it tells us what the earliest church considered the standard, and that standard looks nothing like a once-a-week gathering."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "Paul's Letters — The Messy Reality",
-  "text": "Paul's letters document real, unglamorous problems inside these communities: division, sexual misconduct, and lawsuits between members in Corinth; theological confusion and reversion to Jewish legal requirements in Galatia; personal conflict between leaders in Philippi; and panic in Thessalonica over members who had died before Jesus' expected return. Early Christianity was not a golden age of frictionless community — it was messy, contested, and entirely human, exactly like any real community of people genuinely trying to live differently from the culture around them."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "The Didache — The Earliest Church Manual",
-  "text": "Discovered in 1873, the Didache (~80–120 CE) is one of the most important early Christian documents outside the New Testament — a practical handbook for community life. It describes a period of instruction before baptism, meaning new members made a real commitment before being received rather than joining on the spot. It instructs members directly: \"do not turn away the needy... share everything with your brother.\" It establishes accountability mechanisms for traveling teachers — a prophet who stayed more than two days, or one who asked for money, was to be treated as false. And it describes t"
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "Justin Martyr — The Earliest Detailed Service Description",
-  "text": "Writing around 150 CE, Justin Martyr gives the first clear account of a Sunday gathering: extended reading from the apostles' writings or the prophets, an exhortation from \"the president\" to imitate what was read, communal prayer, a shared meal of bread, wine, and water, and a voluntary collection deposited with the president specifically to support orphans, widows, and those in want. What's present and what's absent This is recognizable as a church service — extended teaching, prayer, a shared meal. What is conspicuously absent is any reference to music production, refreshments offered to att"
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "1. It was costly",
-  "text": "Persecution was real, periodic, and sometimes severe before 313 CE. This functioned as a natural filter: people did not join for social advantage, since there typically wasn't any. The cost of entry ensured a baseline of genuine conviction among those who joined."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "2. It was small and intimate",
-  "text": "House churches typically held fifteen to forty people — roughly the scale of an extended family. This size made genuine mutual knowledge, real accountability, actual economic awareness of each other's needs, and participatory worship structurally possible in a way that large gatherings cannot replicate."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "3. It was economically radical",
-  "text": "The economic sharing described in Acts and the Didache was a structural feature of these communities, not an occasional act of charity. In a Roman world with extreme wealth inequality and almost no social safety net, Christian communities created a genuine alternative economic network — feeding widows, housing orphans, sheltering travelers. This was visible enough that hostile observers commented on it directly. The emperor Julian, attempting to revive paganism in the fourth century, complained that \"the godless Galileans feed not only their own poor but ours also.\" The most effective form of "
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "4. It was intellectually serious",
-  "text": "Extended instruction preceded baptism in many communities — in some cases lasting two to three years. Candidates were expected to learn the scriptures, demonstrate changed behavior, and be vouched for by existing members before being received."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "5. It was participatory, not performative",
-  "text": "Paul describes early worship in 1 Corinthians 14: \"each of you has a hymn, or a word of instruction, a revelation, a tongue or an interpretation.\" Everyone present contributed something; there was no fixed division between a performing few and a watching many."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "6. It was shaped by Jesus' own teaching before later theology dominated",
-  "text": "The Didache opens with what it calls \"the Two Ways,\" a summary of Christian ethics drawn directly from the Sermon on the Mount — appearing before any developed creed, before atonement theology, before institutional structure. In the earliest period, ethics came first; theology about the mechanics of salvation developed later."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "7. It was eschatologically urgent",
-  "text": "Early Christians broadly expected Jesus to return within their own lifetimes, and this expectation shaped behavior directly: possessions were shared because the present arrangement was assumed to be temporary, persecution was endured because it was assumed to be brief, and enemies were loved because the kingdom was understood to already be breaking in. When the expected return did not arrive on that timeline, the resulting adjustment was part of what drove the community toward longer-term institutional structures."
- },
- {
-  "file": "pre-constantine-discipleship.html",
-  "title": "Discipleship Before Constantine",
-  "tag": "Community",
-  "heading": "Before and After Constantine",
-  "text": "Feature Pre-Constantine Post-Constantine Cost of membership High — real social and legal risk Effectively zero — socially advantageous Size Small house churches Large basilicas Economic sharing A structural feature of community life Optional, individual charity Instruction before baptism Two to three years in many communities Eventually minimal — infant baptism with no prior instruction Participation Everyone contributes Clergy perform; laity largely observe Purpose of the offering Care for the vulnerable Buildings and clergy salaries Relationship to political power Countercultural, periodical"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": null,
-  "text": "Revelation is the most famous biblical text about the future, but it is far from the only one — and understanding what apocalyptic literature actually does, as a genre, changes how all of it should be read. This report covers who likely wrote Revelation, what apocalyptic literature is for, and the wider landscape of biblical texts that speak to the future."
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "A Necessary Foundation",
-  "text": "Modern readers tend to assume prophecy means predicting the distant future, that prophets were primarily forecasters, and that fulfillment means a later event matching an earlier prediction. The ancient reality was different on all three counts. The Hebrew word for prophet, navi , means \"one who speaks forth\" — not \"one who predicts.\" Prophets were primarily social critics and covenant enforcers speaking to their own moment, with implications that extended forward. Much of what gets labeled \"biblical prophecy about the future\" was, in its original context, primarily about the immediate politic"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "Who Wrote Revelation?",
-  "text": "The text identifies its author only as \"John,\" with no further title or credential (Revelation 1:1, 1:4, 1:9). Four candidates have been proposed across history. Candidate Case for Case against John the Apostle Earliest church tradition (Justin Martyr, Irenaeus) names him; he was exiled, matching the Patmos detail The Greek of Revelation differs dramatically from the Gospel of John; he was likely already dead before Revelation's probable ~95 CE composition John the Elder A distinct figure mentioned by Papias (~130 CE) via Eusebius; explains the stylistic gap between two different \"Johns\" Very "
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "The Contested Canon History",
-  "text": "Figure / body Position on Revelation Justin Martyr (~150 CE) Accepted it, attributing it to John the Apostle Irenaeus (~180 CE) Accepted it strongly Dionysius of Alexandria (~250 CE) Doubted apostolic authorship while still respecting the text Eusebius (~313 CE) Unusually listed it in both his \"accepted\" and \"disputed\" categories simultaneously Syrian church Excluded it from their canon entirely Council of Laodicea (~363 CE) Excluded it from the canonical list Athanasius (~367 CE) Included it in his list of 27 books Council of Carthage (397 CE) Ratified its inclusion The Eastern Orthodox churc"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "What Apocalyptic Literature Actually Does",
-  "text": "Apocalyptic is a specific genre, not simply a synonym for \"prediction.\" Its standard features include visions received through a human mediator, coded symbolic imagery (beasts, numbers, cosmic warfare), a dualistic framework of this age versus the age to come, and — critically — composition during persecution, using coded language to discuss a real, present political situation without inviting violent reprisal. Pseudonymity, writing in the name of a revered figure, was a conventional and accepted feature of the genre, found across 1 Enoch, 4 Ezra, and the Apocalypse of Peter alongside Daniel a"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "Daniel — The Clearest Case of Prophecy Written After the Fact",
-  "text": "Daniel is traditionally dated to the sixth century BCE, set during the Babylonian exile. Most critical scholars date its actual composition to around 165 BCE — roughly four hundred years later, during the Maccabean crisis under the Seleucid ruler Antiochus IV Epiphanes. The reasoning is direct: Daniel's \"predictions\" track real history with precision up to about 165 BCE, then become vague — exactly the point where the book was most likely actually written. This is the clearest documented case in the biblical canon of vaticinium ex eventu , prophecy composed after the events it claims to predic"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "Ezekiel's Gog and Magog (chapters 38–39)",
-  "text": "Most scholars identify the original referent as a specific ancient threat. The popular modern identification with Russia rests on reading the Hebrew word rosh (\"head\" or \"chief\") as a proper national name — a connection almost no Hebrew scholar accepts as linguistically sound."
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "Joel 2:28–32",
-  "text": "Peter quotes this passage in Acts 2 to interpret Pentecost. Joel's own \"last days\" language (Hebrew acharit hayamim ) more often means \"in the coming time\" generally, not necessarily the end of history — Peter is applying an older hopeful text to his own present moment using the standard ancient method of pesher , not citing a prediction Joel understood himself to be making about a specific future Tuesday in Jerusalem."
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "The Olivet Discourse — Matthew 24, Mark 13, Luke 21",
-  "text": "Jesus describes the Temple's destruction, wars, false prophets, cosmic signs, and the coming of the Son of Man, then states plainly: \"this generation will certainly not pass away until all these things have happened\" (Matthew 24:34). The Temple was in fact destroyed in 70 CE, closely matching the description. Three honest positions exist on the resulting tension: that the delay in the remaining cosmic events was intentional and they are still to come; that Jesus shared the apocalyptic timeline expectations common to his era and was, on a plain reading, mistaken about the timing; or that \"the c"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "1 and 2 Thessalonians and the Rapture",
-  "text": "1 Thessalonians 4:16–17 describes believers being \"caught up\" to meet Christ — language written to comfort a community grieving members who had died before Jesus' expected return. The specific theological system built on this passage — a secret return of Christ removing believers before a period of tribulation — was developed by John Nelson Darby in the 1830s, then popularized through the Scofield Reference Bible (1909) and later twentieth-century popular fiction. This is a documented, less-than-two-hundred-year-old doctrine, absent from the early church and from every Christian tradition befo"
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "2 Peter 3",
-  "text": "Describes the heavens disappearing and the elements destroyed by fire. 2 Peter is widely considered the latest New Testament document, likely written around 120 CE and pseudonymous. Its specific imagery of cosmic destruction by fire draws heavily on the Stoic philosophical concept of ekpyrosis — a periodic destruction and renewal of the cosmos — suggesting this particular doctrine may owe more to Greek philosophy circulating at the time than to earlier Hebrew prophetic tradition."
- },
- {
-  "file": "revelation-apocalyptic.html",
-  "title": "Revelation & the Apocalyptic Tradition",
-  "tag": "Apocalyptic",
-  "heading": "The Pattern Across All of These Texts",
-  "text": "Pattern What it means Written in crisis Every apocalyptic text emerges from a specific community under real pressure, not from calm theological speculation Addressed to the present The \"future\" described is almost always imminent — within the author's own generation Coded for safety Symbolic language protected the community from violent reprisal under occupying powers The enemy is the current empire Babylon, Persia, Greece, Rome — the beast is consistently the present oppressor, not a distant future one The hope is vindication God will ultimately set things right — not a specific dated timelin"
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": null,
-  "text": "None of the four Gospels names its own author inside the text. The names Matthew, Mark, Luke, and John were attached by tradition roughly a century after the texts were written. This report examines what the manuscripts, internal evidence, and external tradition actually support about who wrote them."
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "The Basic Problem",
-  "text": "The earliest surviving Gospel manuscripts are anonymous — the familiar titles (\"The Gospel According to Matthew,\" and so on) were added later by scribes and copyists, reflecting a tradition that had developed by the latter half of the second century. The titles are not part of the original composed text. This does not automatically mean the traditional attributions are wrong, but it does mean they rest on later church tradition rather than on the documents' own internal claims, which is a different and weaker form of evidence than an author naming themselves."
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "Dating and Order of Composition",
-  "text": "Gospel Scholarly dating Key relationship Mark ~65–70 CE Generally considered the earliest; a primary source for Matthew and Luke Matthew ~80–90 CE Reproduces roughly 90% of Mark's content; likely composed within or for a Jewish-Christian community Luke ~80–90 CE Shares an author with Acts; written with a Gentile audience in view John ~90–100 CE Theologically distinct from the other three; shows evidence of multiple editorial stages"
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "The Synoptic Problem",
-  "text": "Matthew, Mark, and Luke share so much material, often word-for-word, that their close literary relationship is undeniable — this is called the Synoptic Problem. The leading scholarly solution combines Markan priority (Mark was written first and used as a source by the other two) with a hypothetical second source called Q (from German Quelle , \"source\") — a collection of Jesus' sayings that Matthew and Luke appear to draw on independently, since they share material not found in Mark at all. Q itself does not survive as a standalone document; its existence is inferred from the pattern of shared "
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "Mark — The Earliest Gospel",
-  "text": "Tradition, recorded by the early bishop Papias around 130 CE, attributes this Gospel to John Mark, a companion of Peter who wrote down Peter's preaching after Peter's death. This is plausible and not strongly contested, but it also cannot be independently verified — the tradition rests on a single early source rather than multiple converging lines of evidence. Mark's Gospel has the lowest \"Christology\" of the four: no virgin birth narrative, no explicit divinity claim, and an abrupt original ending (16:8) with no resurrection appearance — the longer ending found in some Bibles (16:9–20) is a w"
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "Matthew — Tradition vs. Internal Evidence",
-  "text": "Church tradition attributes this Gospel to Matthew, the tax collector called by Jesus and named among the Twelve. The internal evidence creates real tension with this attribution: the author relies heavily on Mark, reproducing it almost wholesale — an odd choice for an eyewitness apostle who could presumably draw on his own firsthand memory rather than depending so extensively on someone else's secondhand account. The text is written in polished Greek, and its detailed engagement with Jewish law and scripture suggests a Jewish-Christian author and audience, but not necessarily the apostle hims"
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "Luke — The Strongest Internal Case",
-  "text": "Luke's Gospel and the Book of Acts share a single author, evident from matching style, vocabulary, and an explicit cross-reference at the start of Acts. The author identifies himself in the opening verses as someone who did not personally witness the events but carefully investigated accounts from those who did (Luke 1:1–4) — making this Gospel the only one to make an explicit, direct claim about its own method, though notably not a claim of personal eyewitness status. Tradition, again via Papias and later figures, attributes it to Luke, a physician and companion of Paul mentioned in several o"
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "John — The Most Theologically Distinct",
-  "text": "The Gospel of John differs sharply from the other three in both style and content: long theological discourses rather than short parables, an explicit and repeated claim to Jesus' pre-existent divinity (\"the Word was God\"), and the absence of material common to the Synoptics. Internal evidence points to composition or final editing by a community over time rather than a single sitting by a single author — the text shows signs of multiple layers, including an appended final chapter (21) that reads as a later addition addressing the death of \"the disciple whom Jesus loved.\" Tradition attributes "
- },
- {
-  "file": "gospel-authorship.html",
-  "title": "Who Actually Wrote the Gospels?",
-  "tag": "Authorship",
-  "heading": "What the Evidence Actually Supports",
-  "text": "Question What the evidence supports Did the Gospels originally carry their traditional names? No — the texts themselves are anonymous; titles were added later Were the traditional attributions invented from nothing? Unlikely — they appear consistently across independent early sources within a few generations of composition Can the traditional attributions be independently verified? No — they rest on church tradition, not on internal authorial claims or external corroboration of the same strength as, for example, Paul's authorship of his core letters Were the authors eyewitnesses to Jesus' mini"
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": null,
-  "text": "Modern preachers commonly teach that the Bible commands believers to give ten percent of their income to their local church. The Hebrew and Greek texts describe something considerably more layered, more conditional, and in the New Testament's case, explicitly different from a fixed percentage at all."
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "What \"Tithe\" Actually Means",
-  "text": "The English word descends from Old English teogoþa , literally \"a tenth\" — a direct translation of the Hebrew ma'aser , which likewise just means \"a tenth part.\" The term carries no independent theological content; it names a fraction. Modern teaching invokes the word specifically because it borrows the authority of the Old Testament system, even when the practice being requested does not match what that system actually required."
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "The Old Testament — Multiple, Different Tithes",
-  "text": "The tithe in ancient Israel was a tax on agricultural produce and livestock — grain, wine, oil, herd animals — paid by an agrarian society with no cash wage economy in the modern sense. It was never a percentage of income, because income in that sense did not exist for most of the population. Tithe Source What it funded Frequency The Levitical tithe Leviticus 27:30–33, Numbers 18:21–24 The Levites, who held no land inheritance of their own Annual The festival tithe Deuteronomy 14:22–27 The tither's own family, consumed at a festival in Jerusalem Annual The poor tithe Deuteronomy 14:28–29, 26:1"
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Abraham and Jacob",
-  "text": "Genesis 14:20 has Abraham give a tenth of war spoils to the priest-king Melchizedek — a one-time act after a military victory, not a recurring obligation. Genesis 28:22 has Jacob vow a tenth conditionally, if God provides for him on his journey — a personal vow, not a commanded practice. Both predate the Law given at Sinai. Neither is framed in its own text as binding on anyone beyond the individual making the vow."
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Jesus mentions tithing exactly twice",
-  "text": "Matthew 23:23 and Luke 11:42 have Jesus criticize the Pharisees for meticulously tithing herbs while neglecting \"justice, mercy, and faithfulness.\" The passage is a critique of empty legal precision substituting for substantive ethics, delivered under the Mosaic Law still in force before his death and resurrection — not a teaching moment establishing a financial system for his own followers. Luke 18:9–14, the parable of the Pharisee and the tax collector, has the tithing Pharisee serve as the explicit example of misplaced righteousness, not a model to emulate. No positive instruction to tithe "
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Paul replaces it with something else entirely",
-  "text": "Paul, writing the earliest Christian documents available, addresses giving extensively and never once uses the word \"tithe.\" Passage What Paul actually says 2 Corinthians 9:7 \"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\" 1 Corinthians 16:1–2 Instructs setting aside a sum \"in keeping with his income\" — proportional, but with no percentage named 2 Corinthians 8:1–5 Praises the Macedonian churches for giving \"even beyond their ability\" — voluntary generosity exceeding any formula The clearest finding in "
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Hebrews 7 — a different argument entirely",
-  "text": "Hebrews 7:1–10 discusses Abraham's tithe to Melchizedek specifically to argue that Melchizedek's priesthood, and by extension Christ's, is superior to the Levitical priesthood. It is a Christological argument about priestly authority, not a financial instruction to its audience — though it is frequently lifted from this context by modern teaching and presented as if it re-establishes the practice."
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Where Teaching and Text Diverge — Stated Plainly",
-  "text": "What is commonly taught What the original texts actually say \"The Bible commands every Christian to give 10% of their income.\" No New Testament text states a percentage. Paul explicitly replaces any fixed figure with voluntary, proportional giving. \"Tithing is a New Testament Christian practice.\" Jesus references tithing only to criticize Pharisaic legalism. Paul never uses the word. The early church practiced voluntary communal sharing, not tithing. \"The tithe goes to your local church.\" The Levitical tithe funded a landless priestly class and direct poor relief — categories with no equivalen"
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Where the Modern Practice Actually Came From",
-  "text": "Period What's happening with tithing ~2000–1800 BCE (narrative setting) Abraham, Jacob — individual, one-time or conditional acts, not commanded practice ~1400–400 BCE Mosaic Law establishes multiple distinct agricultural tithes funding Levites and the poor ~30 CE Jesus references tithing only critically, as an example of Pharisaic legalism ~50–60 CE Paul explicitly replaces any fixed percentage with voluntary, proportional, \"cheerful\" giving ~100–300 CE Early church practices voluntary communal sharing; no tithing system in place 567–800 CE Regional councils (Tours, Mâcon), then Charlemagne, "
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "The Necessary Balance",
-  "text": "The case that modern teaching overreaches The case for the modern practice, fairly stated The Old Testament tithe was agricultural, multi-layered, and likely totaled well over 10% across its full cycle Old Testament tithing does establish a real principle of proportional, structured giving tied to material blessing, even if the specific figure has shifted It funded a landless priestly class and direct poor relief, not a modern church budget Paul's \"in keeping with income\" instruction is itself proportional — a teacher could argue 10% is a reasonable traditional benchmark, not a binding law Jes"
- },
- {
-  "file": "tithing.html",
-  "title": "Tithing — What the Text Actually Says",
-  "tag": "Tithing",
-  "heading": "Is Giving to a Church Part of the Christian Faith?",
-  "text": "Generosity itself is unambiguously part of the New Testament's ethical core. Paul is explicit and repeated: give, give cheerfully, give proportionally to what you have. Jesus' own teaching is saturated with instruction to be generous, particularly toward the poor. This much is not in question. Whether that generosity is specifically owed to a local congregation, as a fixed percentage, of personal income, is a different claim — and it is not what Paul instructs or what Jesus models. Paul's actual collections funded poverty relief for a specific suffering community, not standing institutional op"
  }
 ]
