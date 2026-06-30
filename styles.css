@@ -895,6 +895,27 @@ blockquote {
 .back-to-top .glyph { font-size: 14px; }
 .back-to-top:hover { opacity: 0.92; }
 
+/* ============================================
+   DIAGRAMS (inline SVG, native site theming)
+   ============================================ */
+
+.diagram-box {
+  background: var(--paper-card);
+  border: 1px solid var(--paper-line);
+  border-radius: var(--radius-lg);
+  padding: 22px 20px 18px;
+  margin: 24px 0;
+}
+
+.diagram-caption {
+  font-size: 12px;
+  color: var(--text-on-light-faint);
+  text-align: center;
+  margin-top: 10px;
+}
+
+.diagram-box svg text { font-family: var(--font-body); }
+
 @media (max-width: 600px) {
   .hero { padding: 48px 20px 0; }
   .hero-ctas { flex-direction: column; align-items: stretch; }
