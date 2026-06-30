@@ -113,8 +113,24 @@ img { max-width: 100%; }
   align-items: center;
 }
 
-.site-nav a { transition: color 0.15s; }
+.site-nav a { transition: color 0.15s; position: relative; }
 .site-nav a:hover { color: var(--text-on-dark); }
+
+.site-nav a.current {
+  color: var(--text-on-dark);
+  padding-bottom: 3px;
+}
+
+.site-nav a.current::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gold);
+  border-radius: 1px;
+}
 
 .site-nav a.cta {
   background: var(--gold);
@@ -225,6 +241,29 @@ img { max-width: 100%; }
   border-radius: 50%;
   background: radial-gradient(circle, rgba(232,163,61,0.32) 0%, rgba(232,163,61,0.08) 55%, transparent 75%);
   filter: blur(2px);
+  animation: scene-breathe 4s ease-in-out infinite;
+}
+
+.scene-ring {
+  position: absolute;
+  width: 248px;
+  height: 248px;
+  border-radius: 50%;
+  border: 1px dashed rgba(232,163,61,0.22);
+  animation: scene-spin 32s linear infinite;
+}
+
+@keyframes scene-breathe {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.12); opacity: 1; }
+}
+
+@keyframes scene-spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scene-glow, .scene-ring { animation: none; }
 }
 
 .scene-scroll {
@@ -277,6 +316,8 @@ img { max-width: 100%; }
   .hero-scene { height: 220px; order: -1; }
   .scene-scroll { width: 130px; height: 165px; padding: 20px 16px; gap: 11px; }
   .scene-mark { width: 44px; height: 44px; font-size: 20px; }
+  .scene-glow { width: 170px; height: 170px; }
+  .scene-ring { width: 192px; height: 192px; }
 }
 
 .hero-eyebrow {
