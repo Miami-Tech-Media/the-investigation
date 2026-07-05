@@ -170,3 +170,29 @@
 
   document.addEventListener('DOMContentLoaded', initSearch);
 })();
+
+// ============================================
+// NAV DROPDOWN TOGGLE
+// ============================================
+function toggleDD(btn) {
+  var wrap = btn.closest('.nav-dropdown-wrap');
+  var isOpen = wrap.classList.contains('open');
+  document.querySelectorAll('.nav-dropdown-wrap.open').forEach(function(w) {
+    w.classList.remove('open');
+    var b = w.querySelector('.nav-reports-btn');
+    if (b) b.setAttribute('aria-expanded', 'false');
+  });
+  if (!isOpen) {
+    wrap.classList.add('open');
+    btn.setAttribute('aria-expanded', 'true');
+  }
+}
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.nav-dropdown-wrap')) {
+    document.querySelectorAll('.nav-dropdown-wrap.open').forEach(function(w) {
+      w.classList.remove('open');
+      var b = w.querySelector('.nav-reports-btn');
+      if (b) b.setAttribute('aria-expanded', 'false');
+    });
+  }
+});
